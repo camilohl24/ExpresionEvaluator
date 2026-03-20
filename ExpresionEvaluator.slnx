@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ExpresionEvaluator.Core/ExpresionEvaluator.Core.csproj" Id="64eb9f87-3bb5-4c35-8461-7aa8059662e7" />
+  <Project Path="ExpressionEvaluator.UI.Console/ExpressionEvaluator.UI.Console.csproj" Id="a0d2e600-f021-4c0f-a18f-bcb5f645fecf" />
+  <Project Path="ExpressionEvaluator.UI.Win/ExpressionEvaluator.UI.Win.csproj" Id="b6a6fe3e-4ddc-470f-83b2-4ebeb6de0cfc" />
+</Solution>
